@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/prathipa-u/prathipa-u/blob/main/header-banner.png" alt="Banner" />
+   <img src="Images/header-banner.png" alt="Banner" />
 </p>
 
 
